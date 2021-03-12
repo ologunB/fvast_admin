@@ -1,0 +1,15 @@
+const String PreLoginView = "PreLogin";
+const String LoginView = "Login";
+const String SentCodeView = "SentCode";
+const String SignupView = "Signup";
+const String HomeScreenView = "HomeScreen";
+const String RiderProfileView = "RiderProfile";
+const String FundWalletView = "FundWallet";
+const String MyWalletView = "MyWallet";
+const String FreeRidesView = "FreeRides";
+const String FeedbackView = "Feedback";
+const String PromoCodeView = "PromoCode";
+const String ChooseDestinationView = "ChooseDestination";
+const String RiderHistoryView = "RiderHistory";
+const String PromoCodeDoneView = "PromoDoneCode";
+const String AvailableVehicleView = "AvailableVehicle";
